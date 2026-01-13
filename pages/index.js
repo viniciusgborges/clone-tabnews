@@ -22,8 +22,6 @@ function Home() {
       </div>
     </div>
   );
-
-  console.log();
 }
 
 export default Home;
